@@ -1,3 +1,3 @@
 # coresound_interview
 
-Please see The [Presentation](Presentation1.pdf)
+Please see the [Presentation](Presentation1.pdf)
